@@ -1,0 +1,6 @@
+body { background-color: #f4f6fa; font-family: 'Segoe UI', sans-serif; }
+.navbar-brand { font-weight: 700; font-size: 1.4rem; }
+.card-box { border: none; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.08); }
+.thumb { width: 56px; height: 56px; object-fit: cover; border-radius: 8px; background: #e9ecef; }
+.detail-img { width: 100%; max-height: 360px; object-fit: cover; border-radius: 12px; background: #e9ecef; }
+.hero { background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%); color: #fff; }
